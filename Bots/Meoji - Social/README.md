@@ -9,18 +9,12 @@
 
 • [**Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Assets**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
-• [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
-• [**Server Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
-
-*With powerful raiding features like no other bot, you will have complete control over who can and cannot interact with your discord server. With features such as silencing channels at a moments notice, detecting and banning alts, you will have less time worrying about security, and more time with your friends.*
+• [**Banking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
+• [**Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
 ---
 
 # **Social**
-
-> Provives Powerful Anti - Spam Solutions!
-
-*Bring a stop to spammers, harrassment, off topic chatter and more.*
 
 • [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
