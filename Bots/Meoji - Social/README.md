@@ -7,8 +7,7 @@
 
 # **Economy**
 
-• [**Hobbies**](https://github.com/60xpwn/Meoji-Bot/wiki/Verification)
-• [**Employment**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+• [**Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Assets**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
 • [**Server Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
@@ -17,7 +16,7 @@
 
 ---
 
-# **Anti - Spam**
+# **Social**
 
 > Provives Powerful Anti - Spam Solutions!
 
