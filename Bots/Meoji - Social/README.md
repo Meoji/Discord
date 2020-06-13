@@ -30,10 +30,12 @@
 
 # **Social**
 
-• [**Family**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
-• [**Relationships & Marriage**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
+• [**Family, Relationships & Marriage**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Education**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Law & Crime**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
+• [**Social Media**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Pets**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+
 
 ---
 
