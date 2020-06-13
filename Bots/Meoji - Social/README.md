@@ -37,27 +37,7 @@
 • [**Social Media**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Pets**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 
-
 ---
-
-# **Additional Server Utility Tools**
-
-> Provides Powerful Server Utility Tools!
-
-• [**Chat Restoration**](https://github.com/60xpwn/Meoji-Bot/wiki/ChatRestoration)
-• [**Chat Cleaning / Nuking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChatCleaning)
-• [**Invite Clearing**](https://github.com/60xpwn/Meoji-Bot/wiki/InviteCleaning)
-• [**User Lookups**](https://github.com/60xpwn/Meoji-Bot/wiki/UserLookups)
-• [**Server Backups**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerBackups)
-• [**Logging**](https://github.com/60xpwn/Meoji-Bot/wiki/Logging)
-
-*Quickly perform tasks for clearing and restoring channels, backing up important channels, categories, and roles, and choose to log all or key events for future referencing.*
-
-- Ergo, people should understand instantly what your project is about based on your repo
-
-
----
-
 
 ## Table of Contents
 
