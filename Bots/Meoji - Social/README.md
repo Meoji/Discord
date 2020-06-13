@@ -3,7 +3,7 @@
 
 <a href="#Meoji Is Cool"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Meoji is good, so why aren't you using it?" alt="Meoji is good, so why aren't you using it?"></a>
 
-*Warning - This Bot Is Very Entertaining.. You Will Be Addicted!*
+*⚠️ Warning - This Bot Is Very Entertaining.. You Will Be Hooked!*
 
 # **Economy**
 
@@ -11,7 +11,7 @@
 • [**Banking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
 • [**Law & Crime**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 • [**Stock Trading**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
-• [**Tax & Interest**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
+• [**Interest & Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
 ---
 
