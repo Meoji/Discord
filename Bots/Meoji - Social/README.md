@@ -7,7 +7,7 @@
 
 # **Fundamentals**
 
-• [**Wealth**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Wealth**](https://github.com/Meoji/Discord/Bots/wiki/Wealth)
 • [**Happiness**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Health**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Knowledge**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
@@ -24,7 +24,7 @@
 
 # **Social**
 
-• [**Auto Muting**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
+• [**Family**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
 • [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
 • [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
