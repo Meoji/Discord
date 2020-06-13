@@ -5,6 +5,13 @@
 
 *⚠️ Warning - This Bot Is Very Entertaining.. You Will Be Hooked!*
 
+# **Fundamentals**
+
+• [**Wealth**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Happiness**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Health**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Knowledge**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+
 # **Economy**
 
 • [**Work & Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
