@@ -8,8 +8,8 @@
 # **Economy**
 
 • [**Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
-• [**Assets**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Banking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
+• [**Stock Trading**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
 ---
