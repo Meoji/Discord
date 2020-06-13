@@ -39,7 +39,7 @@
 • [**Social Media**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Pets**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 
-*Life is what you make of it.. 
+*Life is what you make of it..*
 
 ---
 
