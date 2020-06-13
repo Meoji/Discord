@@ -5,11 +5,11 @@
 
 *Warning - This Bot Is Very Entertaining.. You Will Be Addicted!*
 
-# **Features**
+# **Economy**
 
-• [**Verification**](https://github.com/60xpwn/Meoji-Bot/wiki/Verification)
-• [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
-• [**VPN/Proxy Blocker**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
+• [**Hobbies**](https://github.com/60xpwn/Meoji-Bot/wiki/Verification)
+• [**Employment**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+• [**Assets**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Channel/Category Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
 • [**Server Locking**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
