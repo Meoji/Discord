@@ -7,10 +7,11 @@
 
 # **Economy**
 
-• [**Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Work & Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Banking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
+• [**Law & Crime**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 • [**Stock Trading**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
-• [**Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
+• [**Tax & Interest**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
 ---
 
