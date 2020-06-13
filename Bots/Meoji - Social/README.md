@@ -22,7 +22,7 @@
 
 • [**Work & Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Banking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
-• [**Law & Crime**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
+• [**Betting**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Stock Trading**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Interest & Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
@@ -31,30 +31,8 @@
 # **Social**
 
 • [**Family**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
-• [**Auto Banning**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
-• [**Moderation**](https://github.com/60xpwn/Meoji-Bot/wiki/Moderation)
-• [**Selfbot Detection**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-• [**Blacklisting / Whitelisting**](https://github.com/60xpwn/Meoji-Bot/wiki/Listing)
-
-*With our set of powerful moderation tools, you will be able to quickly silence users, restore the chat to a particular time of day,
-apply blacklists and whitelists for phrases, links, and malicious file types, and get instant notifications abount abuse, allowing you to get more out of your day.*
-
----
-
-# **Anti - Moderation Abuse**
-
-> Provides Powerful Anti - Moderation Abuse!
-
-*Protect your server, even from the higher ups! Security is needed most where you think you need it the least.*
-
-• [**Mass Kick/Ban**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
-• [**Mass Creation**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
-• [**Mass Deletion**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
-• [**Performance Monitoring**](https://github.com/60xpwn/Meoji-Bot/wiki/SelfbotDetection)
-
-*With our smartly designed, built-in anti-moderation abuse, your moderators and admins will not be able to perform mass actions or co-ordinated actions, such as banning and unbanning large quantities of users, or creating and deleting large quantities of channels, categories or roles.*
-
-*Monitor a moderators performance with quality control measures, such as activity graphs, daily, weekly, and monthly user statistics, activity levels, active channels, and more.*
+• [**Relationships**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+• [**Law & Crime**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
 ---
 
