@@ -26,7 +26,7 @@
 • [**Stock Trading**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Interest & Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
-*Win the lottery, take your parents to the casino, rob a bank, become self-employed, but ultimately, get rich!*
+*Win the lottery, take your parents to the casino, rob a bank, become self-employed, but ultimately, get rich! Buy a mansion, buy a sports car, but if you're rich enough, buy a major company like Google.*
 
 ---
 
@@ -38,6 +38,8 @@
 • [**Activities**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Social Media**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Pets**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+
+*Go to school and make lots of friends, buy a pet to look after, get plastic surgery, become the most popular person on instagram... life is what you make of it.*
 
 ---
 
