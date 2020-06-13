@@ -22,7 +22,7 @@
 
 • [**Work & Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Banking**](https://github.com/60xpwn/Meoji-Bot/wiki/ChannelLocking)
-• [**Betting**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Betting & Lottery**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Stock Trading**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Interest & Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
@@ -33,6 +33,7 @@
 • [**Family, Relationships & Marriage**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Education**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Law & Crime**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
+• [**Activities**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Social Media**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Pets**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 
