@@ -31,7 +31,8 @@
 # **Social**
 
 • [**Family**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
-• [**Relationships**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoBanning)
+• [**Relationships & Marriage**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
+• [**Education**](https://github.com/60xpwn/Meoji-Bot/wiki/AutoMuting)
 • [**Law & Crime**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
 ---
