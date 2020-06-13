@@ -26,6 +26,8 @@
 • [**Stock Trading**](https://github.com/60xpwn/Meoji-Bot/wiki/ProxyBlocker)
 • [**Interest & Tax**](https://github.com/60xpwn/Meoji-Bot/wiki/ServerLocking)
 
+*Win the lottery, take your parents to the casino, rob a bank, become self-employed, but ultimately, get rich! 
+
 ---
 
 # **Social**
