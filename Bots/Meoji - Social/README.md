@@ -12,6 +12,12 @@
 • [**Health**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Knowledge**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 
+*This life is yours.. Will you make the right decisions, achieve good grades, have kids, and pick up a good job along the way?
+
+Or will you make the choices that horrify your parents, descending into a life of crime, starting prison riots, smuggle duffle bags, and cheat on your spouse?
+
+It's all up to you...*
+
 # **Economy**
 
 • [**Work & Employment**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
