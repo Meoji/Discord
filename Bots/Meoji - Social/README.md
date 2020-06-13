@@ -12,9 +12,9 @@
 • [**Health**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Knowledge**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 
-*This life is yours.. Will you make the right decisions, achieve good grades, have kids, and pick up a good job along the way?*
+*This life is yours.. Will you make the right decisions, become rich, have kids, and pick up a good job along the way?*
 
-*Or will you make the choices that horrify your parents, descending into a life of crime, starting prison riots, smuggle duffle bags, and cheat on your spouse?*
+*Or will you make the wrong decisions, descend into a life of crime, start prison riots, and start the biggest cartel in the history of discord?*
 
 *It's all up to you...*
 
