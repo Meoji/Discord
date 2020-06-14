@@ -5,7 +5,7 @@
 
 # How It Works
 
-This is a life simulation bot like no other! Earn money from various ways, become rich, buy and sell properties, and assets. Go to a nightclub and pick up a hooker, and propose to her. Hit the library, become really smart, and get a great job. Start a family, a bike club, or a drug cartel, and invite members of your server. The possibilities are endless.
+This is a life simulation bot like no other! Earn money from various ways, become rich, buy and sell properties, and assets. Rack up $700 billion dollars and be the sole owner of Google Inc. Go to a nightclub and pick up a hooker, and propose to her. Hit the library, become really smart, and get a great job. Start a family, a bike club, or a drug cartel, and invite members of your server. The possibilities are endless.
 
 *All of your progress will be saved across servers.*
 
