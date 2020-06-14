@@ -3,6 +3,12 @@
 
 <a href="#Meoji Is Cool"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="Meoji is good, so why aren't you using it?" alt="Meoji is good, so why aren't you using it?"></a>
 
+# How It Works
+
+This is a life simulation bot like no other! Earn money from various ways, become rich, buy and sell properties, and assets. Go to a nightclub and pick up a hooker, and propose to her. Hit the library, become really smart, and get a great job. Start a family, a bike club, or a drug cartel, and invite members of your server. The possibilities are endless.
+
+*All of your progress will be saved across servers.*
+
 # **Fundamentals**
 
 • [**Money**](https://github.com/Meoji/Discord/wiki/Wealth)
