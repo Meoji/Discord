@@ -9,6 +9,7 @@
 • [**Health**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Happiness**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
 • [**Smarts**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
+• [**Age**](https://github.com/Meoji/Discord/Bots/wiki/Wealth)
 
 *This life is yours.. Will you make the right decisions, become rich, have kids, and pick up a good job along the way?*
 
