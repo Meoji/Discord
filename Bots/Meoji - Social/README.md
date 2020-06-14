@@ -5,11 +5,11 @@
 
 # **Fundamentals**
 
-• [**Money**](https://github.com/Meoji/Discord/Bots/wiki/Wealth)
-• [**Health**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
-• [**Happiness**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
-• [**Smarts**](https://github.com/Meoji/Meoji-Bot/wiki/AutoBanning)
-• [**Age**](https://github.com/Meoji/Discord/Bots/wiki/Wealth)
+• [**Money**](https://github.com/Meoji/Discord/wiki/Wealth)
+• [**Health**](https://github.com/Meoji/Discord/wiki/Wealth)
+• [**Happiness**](https://github.com/Meoji/Discord/wiki/Wealth)
+• [**Smarts**](https://github.com/Meoji/Discord/wiki/Wealth)
+• [**Age**](https://github.com/Meoji/Discord/wiki/Wealth)
 
 *This life is yours.. Will you make the right decisions, become rich, have kids, and pick up a good job along the way?*
 
